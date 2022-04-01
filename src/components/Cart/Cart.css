@@ -1,0 +1,39 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.clear-cart{
+    width: 232px;
+    height: 48px;
+    border: none;
+    border-radius: 4px;
+    background-color: #FF3030;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:16px auto;
+}
+.clear-cart p{
+    margin-right: 10px;
+}
+.review-order{
+    width: 232px;
+    height: 48px;
+    border: none;
+    border-radius: 4px;
+    background-color: #FF9900;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+}
+.review-order p{
+    margin-right: 10px;
+}
+.cart-details{
+    padding-left: 30px;
+    text-align: left;
+}
+
